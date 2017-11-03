@@ -18,7 +18,7 @@ Be sure to switch your project into iOS in the build settings and add 2 custom r
 
 ## Built With
 
-* [Apple UI Design Resources(https://developer.apple.com/design/resources/) - Images and reference sizing used
+* [Apple UI Design Resources](https://developer.apple.com/design/resources/) - Images and reference sizing used
 * [iPhone X Design Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/iphone-x/) - iPhone X Design Guidelines specifics
 submitting pull requests to us.
 
