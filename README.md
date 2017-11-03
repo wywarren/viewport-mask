@@ -8,7 +8,7 @@ Drop the folder into your project's Assets/ folder. Select the "Viewport Mask" p
 
 ### Prerequisites
 
-Be sure to switch your project into iOS in the build settings and add 2 custom resolutions for iPhone X. For landscape, use 2436x1125 and for portrat use 1125x2436.
+Be sure to switch your project into iOS in the build settings and add 2 custom resolutions for iPhone X. For landscape, use 2436x1125 and for portrait use 1125x2436.
 
 ## Built With
 
